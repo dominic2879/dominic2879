@@ -3,7 +3,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 -- Create entity
 local entityTable = Spawner.createEntity({
     CustomName = "TV Man", -- Custom name of your entity
-    Model = "https://github.com/dominic2879/dominic2879/blob/main/tv%20man%20script.md?raw=?", -- Can be GitHub file or rbxassetid
+    Model = "https://github.com/dominic2879/dominic2879/blob/main/TV%20Man.rbxm?raw=?", -- Can be GitHub file or rbxassetid
     Speed = 450, -- Percentage, 100 = default Rush speed
     DelayTime = 8, -- Time before starting cycles (seconds)
     HeightOffset = 0,
